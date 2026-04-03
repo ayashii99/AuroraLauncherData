@@ -215,6 +215,81 @@
         "url": "STOP"
     },
     {
+        "name": "Rust_Data/resources.resource",
+        "hash": "7eff8791c51ab69b8982cef7472801ca",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets0.assets",
+        "hash": "63977744a853f398c47a836d7a51c2c4",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets1.assets",
+        "hash": "da93e78a14efa35583eee06fef0ed347",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets2.assets",
+        "hash": "de04b98ff69515198764c1ed0a8c00a2",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets2.resource",
+        "hash": "df5c396dc3887fa8fd6a558727a2443f",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets3.assets",
+        "hash": "8e6487ef4933c80c9241f5a97fc713cf",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets4.assets",
+        "hash": "7c34de977363288e0207d0fedcef4898",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets4.resource",
+        "hash": "1da92bc150d598a805e888339dd07164",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets5.assets",
+        "hash": "91f25b52179bd36e855fda8bbf487313",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets5.resource",
+        "hash": "841d592f8bb0e5a718615d1bae9a69a3",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets6.assets",
+        "hash": "fd6d3ac099a78c3216e3f599abd8393c",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets6.resource",
+        "hash": "09a95253892d3dc3c63b01d688e27afe",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets7.assets",
+        "hash": "0627b9511a19edce274d569e5590d6f7",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets8.assets",
+        "hash": "7a59e7a4f9619d2249da353aa9ab2267",
+        "url": "STOP"
+    },
+    {
+        "name": "Rust_Data/sharedassets8.resource",
+        "hash": "a081d539a239cb9199e2eee27a91b6bf",
+        "url": "STOP"
+    },
+    {
         "name": "Rust_Data/Managed/UnityEngine.UI.dll",
         "hash": "ce4e12a66e5cc901a09605ed1aa82dc4",
         "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.UI.dll"
