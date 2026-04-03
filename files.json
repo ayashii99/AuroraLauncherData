@@ -2,211 +2,211 @@
     {
         "name": "Rust_Data/Managed/Accessibility.dll",
         "hash": "49826010721559745c96790df65bc3e7",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Accessibility.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Accessibility.dll"
     },
     {
         "name": "Rust_Data/Managed/Assembly-CSharp-firstpass.dll",
         "hash": "66c466e1a05a6cf5115dbf658d78fc8a",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Assembly-CSharp-firstpass.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Assembly-CSharp-firstpass.dll"
     },
     {
         "name": "Rust_Data/Managed/Assembly-CSharp.dll",
         "hash": "6adf330d1c1fc7e3bbb91e15dfd3bce6",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Assembly-CSharp.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Assembly-CSharp.dll"
     },
     {
         "name": "Rust_Data/Managed/Behave.Unity.Runtime.dll",
         "hash": "c3caf6738335a2f881569320c2121629",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Behave.Unity.Runtime.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Behave.Unity.Runtime.dll"
     },
     {
         "name": "Rust_Data/Managed/ConvexHull.dll",
         "hash": "a86659ff0dc6344fa934445a02f14b1e",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/ConvexHull.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/ConvexHull.dll"
     },
     {
         "name": "Rust_Data/Managed/DestMath.dll",
         "hash": "94185ba5bf670c539c26a993606854f3",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/DestMath.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/DestMath.dll"
     },
     {
         "name": "Rust_Data/Managed/EasyAntiCheat.Client.dll",
         "hash": "719f21522d3cd47c90df72628a12adcd",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/EasyAntiCheat.Client.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/EasyAntiCheat.Client.dll"
     },
     {
         "name": "Rust_Data/Managed/EasyAntiCheat.Server.dll",
         "hash": "e52a84dcf36e0e928c49a34bfb304ba1",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/EasyAntiCheat.Server.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/EasyAntiCheat.Server.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.CJK.dll",
         "hash": "9699cc3c05e0aef059cea88c376d555d",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.CJK.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.CJK.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.dll",
         "hash": "62454345e88134d865eeb6725d9c9408",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.MidEast.dll",
         "hash": "5c6a944c57693a10969aa55788704894",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.MidEast.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.MidEast.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.Other.dll",
         "hash": "5613ce665f916aeb2c24e0c3f2838f84",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.Other.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.Other.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.Rare.dll",
         "hash": "4fc3adac7630ae466cc03fc254840980",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.Rare.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.Rare.dll"
     },
     {
         "name": "Rust_Data/Managed/I18N.West.dll",
         "hash": "f4d18233fff8d107eacdf1c18beb1c19",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/I18N.West.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/I18N.West.dll"
     },
     {
         "name": "Rust_Data/Managed/Ionic.Zip.Reduced.dll",
         "hash": "69aff2898f56fcbea667c34f9b7f6275",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Ionic.Zip.Reduced.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Ionic.Zip.Reduced.dll"
     },
     {
         "name": "Rust_Data/Managed/LZ4n.dll",
         "hash": "a7cdd846f73bb6927e11bc0883cc0f0e",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/LZ4n.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/LZ4n.dll"
     },
     {
         "name": "Rust_Data/Managed/Mono.Data.Tds.dll",
         "hash": "7247bf4d9bbde8df7953fb349289cb9f",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Mono.Data.Tds.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Mono.Data.Tds.dll"
     },
     {
         "name": "Rust_Data/Managed/Mono.Posix.dll",
         "hash": "c0fe413180fc6f07cd9bb4ea44b557c0",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Mono.Posix.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Mono.Posix.dll"
     },
     {
         "name": "Rust_Data/Managed/Mono.Security.dll",
         "hash": "d0d09314bd7aeb9a6906531a41e73859",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Mono.Security.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Mono.Security.dll"
     },
     {
         "name": "Rust_Data/Managed/Mono.WebBrowser.dll",
         "hash": "1e01db30f2d2f1b76a72c3fddab1fb5e",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Mono.WebBrowser.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Mono.WebBrowser.dll"
     },
     {
         "name": "Rust_Data/Managed/mscorlib.dll",
         "hash": "45e7d0cea7c7e057ce80b5c9da7cc337",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/mscorlib.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/mscorlib.dll"
     },
     {
         "name": "Rust_Data/Managed/Newtonsoft.Json.dll",
         "hash": "930ec0618083951a8e30aa95da7b9af8",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/Newtonsoft.Json.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Newtonsoft.Json.dll"
     },
     {
         "name": "Rust_Data/Managed/protobuf-net.dll",
         "hash": "414a47500b4681b57a7729708a3d5994",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/protobuf-net.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/protobuf-net.dll"
     },
     {
         "name": "Rust_Data/Managed/RustBuild.dll",
         "hash": "c92f97f6cf5ba07079170cf19db6a495",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/RustBuild.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/RustBuild.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Configuration.dll",
         "hash": "3e75e848f8707c7aed20102f3614053b",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Configuration.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Configuration.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Configuration.Install.dll",
         "hash": "e1b61fbabfc2aac2ba188c23b33ff35f",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Configuration.Install.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Configuration.Install.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Core.dll",
         "hash": "6589c7d8bf0c800c7534ecae8ef5ac80",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Core.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Core.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Data.dll",
         "hash": "02f2885a29b85b9b99d56c6c42c8f0d3",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Data.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Data.dll"
     },
     {
         "name": "Rust_Data/Managed/System.dll",
         "hash": "a216e5443b05fc4d20f3a75bedd3dc2b",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Drawing.dll",
         "hash": "4ea1445b6d3a1789121bca96e30f17f9",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Drawing.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Drawing.dll"
     },
     {
         "name": "Rust_Data/Managed/System.EnterpriseServices.dll",
         "hash": "156509f7b3d8d00deb4d0b5f4d3afad6",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.EnterpriseServices.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.EnterpriseServices.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Runtime.Serialization.dll",
         "hash": "7e3381dcdeb8010ead06be5e56ea6210",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Runtime.Serialization.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Runtime.Serialization.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Security.dll",
         "hash": "7fc66df9f73f72321b37dcd945bc3578",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Security.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Security.dll"
     },
     {
         "name": "Rust_Data/Managed/System.ServiceProcess.dll",
         "hash": "e0b79dc79de312b39e1f07206624f316",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.ServiceProcess.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.ServiceProcess.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Transactions.dll",
         "hash": "1040beff8527a25cf183363918f77ee5",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Transactions.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Transactions.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Windows.Forms.dll",
         "hash": "763396eea2df02e05643c04c62d2ecd7",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Windows.Forms.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Windows.Forms.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Xml.dll",
         "hash": "62ea95ee011fcf95c6646a72169ce7a2",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Xml.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Xml.dll"
     },
     {
         "name": "Rust_Data/Managed/System.Xml.Linq.dll",
         "hash": "19e48f24bc668da7a4319ea1a676097d",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/System.Xml.Linq.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/System.Xml.Linq.dll"
     },
     {
         "name": "Rust_Data/Managed/UnityEngine.Cloud.Analytics.dll",
         "hash": "542cf0817b6482d62898d90f436f3b23",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/UnityEngine.Cloud.Analytics.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.Cloud.Analytics.dll"
     },
     {
         "name": "Rust_Data/Managed/UnityEngine.Cloud.Analytics.Util.dll",
         "hash": "d89cb67e6e2e25f335002f8046ad0778",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/UnityEngine.Cloud.Analytics.Util.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.Cloud.Analytics.Util.dll"
     },
     {
         "name": "Rust_Data/Managed/UnityEngine.dll",
         "hash": "1718d6816b174293d250e066c03f480c",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/UnityEngine.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.dll"
     },
     {
         "name": "Rust_Data/Managed/UnityEngine.UI.dll",
         "hash": "ce4e12a66e5cc901a09605ed1aa82dc4",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Managed/UnityEngine.UI.dll"
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.UI.dll"
     }
 ]
