@@ -205,6 +205,11 @@
         "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.dll"
     },
     {
+        "name": "Rust_Data/mainData",
+        "hash": "c7fd7a5fe6ae56ac35fe35dbb10e2648",
+        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/mainData"
+    },
+    {
         "name": "Rust_Data/Managed/UnityEngine.UI.dll",
         "hash": "ce4e12a66e5cc901a09605ed1aa82dc4",
         "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/UnityEngine.UI.dll"
