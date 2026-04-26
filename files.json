@@ -6,13 +6,13 @@
     },
     {
         "name": "Rust_Data/Managed/Assembly-CSharp-firstpass.dll",
-        "hash": "66c466e1a05a6cf5115dbf658d78fc8a",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Assembly-CSharp-firstpass.dll"
+        "hash": "7d525ae3cb55139fcacc34cf3b392a1e",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/Assembly-CSharp-firstpass.dll"
     },
     {
         "name": "Rust_Data/Managed/Assembly-CSharp.dll",
-        "hash": "2d7d01b8419042bca04dd6cb0d2da61a",
-        "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/Assembly-CSharp.dll"
+        "hash": "0f490c54acf8507ddad4d4da9793fe6d",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/Assembly-CSharp.dll"
     },
     {
         "name": "Rust_Data/Managed/Behave.Unity.Runtime.dll",
