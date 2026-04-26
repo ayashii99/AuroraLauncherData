@@ -210,6 +210,71 @@
         "url": "https://raw.githubusercontent.com/ayashii99/AuroraLauncherData/main/mainData"
     },
     {
+        "name": "Rust_Data/Utility",
+        "hash": "c615006e351e090e6ecbdf4c0709219a",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroracompass"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "95ef98143cc57542f5472ad7dade3129",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/aurorafonts"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "583e6dd161c350f6029580c2f0179a7c",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/aurorahitmarker"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "aadcfafc56fef24baa5a7d8f831edebf",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/aurorakillfeed"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "35a140c23d75eaa17f2d41b378c2efe0",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroramainmenuserver"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "273805991b64c9322937e770f9764f3b",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroramenublock"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "58ab5d7caf9bad39c7c794c44f65161f",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroramenuh"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "b99903f4499d29d0b092decaab67e34b",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroramenukits"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "bf92914e9969ed948f3bfc8f1985fa6e",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/auroraoverlay"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "69f079ae38e63094f2c3372280fc05ed",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/aurorareport"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "99e7fc6203a04f0b677826c99d96da62",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/aurorastore"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "005d39e4c2a12d1c9c2c38ded0ed7438",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/headshot"
+    },
+    {
+        "name": "Rust_Data/Utility",
+        "hash": "9f458d7a1ec07d8b1dcfbe7c304e710a",
+        "url": "https://github.com/ayashii99/AuroraLauncherData/raw/refs/heads/main/hitmarker"
+    },
+    {
         "name": "Rust_Data/resources.assets",
         "hash": "5deea7bca0df9f218c99af427e421c48",
         "url": "STOP"
